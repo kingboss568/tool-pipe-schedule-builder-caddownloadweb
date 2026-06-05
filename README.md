@@ -1,13 +1,8 @@
 # Pipe Schedule Builder
 
-Static SaaS utility site for caddownloadweb.com.
+Premium static SaaS rewrite for pipe-schedule.caddownloadweb.com.
 
-- Custom domain: https://pipe-schedule.caddownloadweb.com/
-- GitHub repo target: kingboss568/tool-pipe-schedule-builder-caddownloadweb
-- Tool family: MEP Studio
-- Pages after SaaS upgrade: 13
-- Source plan: /Volumes/TEAM 2TB/＠85網站計畫
-
-## Notes
-
-This site is generated as part of the remaining 70-site expansion. It includes a real browser-side tool, AdSense metadata after upgrade, sitemap, robots.txt, CNAME, and local workspace/save/export behavior.
+- Pages: 121
+- Archetype: MEP Engineering
+- AdSense: ca-pub-0268893833921284
+- Source manifest: /Users/jushiung/Documents/江毓祥資料庫/大腦系統/outputs/85-remaining-tools-20260602/deployment-manifest.json

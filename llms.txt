@@ -1,0 +1,45 @@
+Pipe Schedule Builder
+
+Pipe Schedule Builder is a practical mep engineering workspace for facility planner teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://pipe-schedule.caddownloadweb.com/
+- https://pipe-schedule.caddownloadweb.com/tool/
+- https://pipe-schedule.caddownloadweb.com/workspace/
+- https://pipe-schedule.caddownloadweb.com/reports/
+- https://pipe-schedule.caddownloadweb.com/guides/
+- https://pipe-schedule.caddownloadweb.com/library/
+- https://pipe-schedule.caddownloadweb.com/templates/
+- https://pipe-schedule.caddownloadweb.com/compare/
+- https://pipe-schedule.caddownloadweb.com/checklists/
+- https://pipe-schedule.caddownloadweb.com/integrations/
+- https://pipe-schedule.caddownloadweb.com/settings/
+- https://pipe-schedule.caddownloadweb.com/plans/
+- https://pipe-schedule.caddownloadweb.com/faq/
+- https://pipe-schedule.caddownloadweb.com/privacy/
+- https://pipe-schedule.caddownloadweb.com/about/
+- https://pipe-schedule.caddownloadweb.com/guides/estimate-service-loads-1/
+- https://pipe-schedule.caddownloadweb.com/guides/prepare-coordination-notes-2/
+- https://pipe-schedule.caddownloadweb.com/guides/screen-clashes-3/
+- https://pipe-schedule.caddownloadweb.com/guides/build-a-symbol-schedule-4/
+- https://pipe-schedule.caddownloadweb.com/guides/score-a-checklist-5/
+- https://pipe-schedule.caddownloadweb.com/guides/document-open-risks-6/
+- https://pipe-schedule.caddownloadweb.com/guides/estimate-service-loads-7/
+- https://pipe-schedule.caddownloadweb.com/guides/prepare-coordination-notes-8/
+- https://pipe-schedule.caddownloadweb.com/guides/screen-clashes-9/
+- https://pipe-schedule.caddownloadweb.com/guides/build-a-symbol-schedule-10/
+- https://pipe-schedule.caddownloadweb.com/guides/score-a-checklist-11/
+- https://pipe-schedule.caddownloadweb.com/guides/document-open-risks-12/
+- https://pipe-schedule.caddownloadweb.com/guides/estimate-service-loads-13/
+- https://pipe-schedule.caddownloadweb.com/guides/prepare-coordination-notes-14/
+- https://pipe-schedule.caddownloadweb.com/guides/screen-clashes-15/
+- https://pipe-schedule.caddownloadweb.com/guides/build-a-symbol-schedule-16/
+- https://pipe-schedule.caddownloadweb.com/guides/score-a-checklist-17/
+- https://pipe-schedule.caddownloadweb.com/guides/document-open-risks-18/
+- https://pipe-schedule.caddownloadweb.com/guides/estimate-service-loads-19/
+- https://pipe-schedule.caddownloadweb.com/guides/prepare-coordination-notes-20/
+- https://pipe-schedule.caddownloadweb.com/guides/screen-clashes-21/
+- https://pipe-schedule.caddownloadweb.com/guides/build-a-symbol-schedule-22/
+- https://pipe-schedule.caddownloadweb.com/guides/score-a-checklist-23/
+- https://pipe-schedule.caddownloadweb.com/guides/document-open-risks-24/
+- https://pipe-schedule.caddownloadweb.com/guides/estimate-service-loads-25/
